@@ -1,0 +1,4 @@
+- 👋 ¡Hola! Soy Germán,
+- 👀 Me interesan las nuevas tecnologías en las que se involucran electrónica, robótica y el aprendizaje automático.
+- 🌱 Actualmente estoy aprendiendo sobre la impresión 3D y manufacturación de prototipos.
+- 📫 Contáctame: <TODO>
